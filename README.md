@@ -1,6 +1,6 @@
 # CvmGit
 
-🧠 Push your code to GitHub with a less commands.
+Push your codes to GitHub with a less commands.
 
 
 ## Badges
@@ -13,7 +13,7 @@
 
 ## Links
 
-[NPM](https://www.npmjs.com/package/cvmgit)
+- [NPM](https://www.npmjs.com/package/cvmgit)
 
 ## Install
 
@@ -21,7 +21,7 @@
 npm install -g cvmgit
 ```
 
-## Usage
+## Basic Command
 
 ```bash
 cvmgit "Commit Message" "Repository URL" "Branch Name"
@@ -33,7 +33,7 @@ cvmgit "Commit Message" "Repository URL" "Branch Name"
 cvmgit "Initial commit" "https://github.com/your-username/your-repo.git" "main"
 ```
 
-## What it does
+## Procedure
 
 - Initializes a Git repo (if not already)
 - Adds all files
@@ -47,4 +47,5 @@ cvmgit "Initial commit" "https://github.com/your-username/your-repo.git" "main"
 - Make sure your repo exists before running
 - You must provide all three arguments
 - Designed for simplicity — no extra config (yet)
+- This is just an early version of the idea
 
