@@ -1,0 +1,35 @@
+{
+  "name": "cvmgit",
+  "version": "0.0.1",
+  "description": "Simple CLI tool to streamline git workflow.More updates coming soon.",
+  "keywords": [
+    "git",
+    "cli",
+    "cvmgit",
+    "caveman",
+    "automation",
+    "workflow",
+    "command-line",
+    "git-automation",
+    "git-workflow",
+    "git-cli",
+    "git-tool"
+  ],
+  "main": "cvmGit.js",
+  "bin": {
+    "cvmgit": "./Code/cvmGit.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwastikTheCaveman/CvmGit-CLI.git"
+  },
+  "author": "Swastik The Caveman",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/SwastikTheCaveman/CvmGit-CLI/issues"
+  },
+  "homepage": "https://github.com/SwastikTheCaveman/CvmGit-CLI#readme"
+}
