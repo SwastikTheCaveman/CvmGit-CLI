@@ -4,6 +4,14 @@
 
 USE AT YOUR OWN RISK since it's still a new and buggy version.
 
+## Badges
+
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+
+## Authors
+
+- [@SwastikTheCaveman](https://github.com/SwastikTheCaveman)
+
 ## Links
 
 [NPM](https://www.npmjs.com/package/cvmgit)
