@@ -52,4 +52,4 @@ cvmgit "Initial commit" "https://github.com/your-username/your-repo.git" "main"
 - This is just an early version of the idea
 
 <h2 align="center">Others</h2>
-- Please adhere to the CODE_OF_CONDUCT.md.Thanks for the support.
+- Please adhere to the CODE_OF_CONDUCT.Thanks for the support.
