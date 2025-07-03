@@ -4,13 +4,13 @@
 
 <h2 align="center">Badges</h2>
 
-<p align = "center">![Static Badge](https://img.shields.io/badge/license-GPL3-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FSwastikTheCaveman%2FCvmGit-CLI%3Ftab%3DGPL-3.0-1-ov-file)
-![Static Badge](https://img.shields.io/badge/SwastikTheCaveman-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FSwastikTheCaveman)</p>
+![Static Badge](https://img.shields.io/badge/license-GPL3-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FSwastikTheCaveman%2FCvmGit-CLI%3Ftab%3DGPL-3.0-1-ov-file)
+![Static Badge](https://img.shields.io/badge/SwastikTheCaveman-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FSwastikTheCaveman)
 
 
 <h2 align="center">Technologies Used</h2>
 
-<p align = "center">![NPM Version](https://img.shields.io/npm/v/cvmgit?style=for-the-badge&color=red&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fcvmgit)![Static Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&color=light%20yellow)![Static Badge](https://img.shields.io/badge/nodejs-yellow?style=for-the-badge&logo=node.js&color=black)![Static Badge](https://img.shields.io/badge/git-yellow?style=for-the-badge&logo=git&color=brown)</p>
+![NPM Version](https://img.shields.io/npm/v/cvmgit?style=for-the-badge&color=red&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fcvmgit)![Static Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&color=light%20yellow)![Static Badge](https://img.shields.io/badge/nodejs-yellow?style=for-the-badge&logo=node.js&color=black)![Static Badge](https://img.shields.io/badge/git-yellow?style=for-the-badge&logo=git&color=brown)
 
 
 
