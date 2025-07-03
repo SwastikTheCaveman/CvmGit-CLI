@@ -6,7 +6,7 @@ USE AT YOUR OWN RISK since it's still a new and buggy version.
 
 ## Links
 
-[NPM] (https://www.npmjs.com/package/cvmgit)
+[NPM](https://www.npmjs.com/package/cvmgit)
 
 ## Install
 
