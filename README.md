@@ -1,7 +1,6 @@
 # CvmGit
 
-## Push your codes to GitHub with a less commands.
-
+<h2 align="center"> Initialize, commit, and push — all in one command.</h2>
 
 ## Badges
 
