@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 const [, , commitMessage, repoUrl, branchName] = process.argv;
 if (!commitMessage || !repoUrl || !branchName) {
-    console.error("❌ Usage: node cmrepopush.js\"<commitMessage>\"\"<repoUrl>\"\"<branchName>\"");
+    console.error("❌ Usage: node cvmgit.js\"<commitMessage>\"\"<repoUrl>\"\"<branchName>\"");
     process.exit(1);
 }
 
