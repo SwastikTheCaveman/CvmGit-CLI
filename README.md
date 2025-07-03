@@ -16,19 +16,21 @@
 
 
 
-## Install
+<h2 align="center">Installation and Usage</h2>
 
-<p align="center">```bash
+- Install the Cvmgit package from npm
+
+```bash
 npm install -g cvmgit
-```</p>
+```
 
-## Basic Command
+- Run this command following the exact structure
 
 ```bash
 cvmgit "Commit Message" "Repository URL" "Branch Name"
 ```
 
-## Example
+- Here is a dummy example
 
 ```bash
 cvmgit "Initial commit" "https://github.com/your-username/your-repo.git" "main"
