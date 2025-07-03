@@ -1,8 +1,12 @@
 # CvmGit
 
 🧠 Push your code to GitHub with a single command.
+
 USE AT YOUR OWN RISK since it's still a new and buggy version.
-NPM 👉 https://www.npmjs.com/package/cvmgit
+
+## Links
+
+[NPM] (https://www.npmjs.com/package/cvmgit)
 
 ## Install
 
