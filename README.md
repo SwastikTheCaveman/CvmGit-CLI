@@ -1,8 +1,7 @@
 # CvmGit
 
-🧠 Push your code to GitHub with a single command.
+🧠 Push your code to GitHub with a less commands.
 
-USE AT YOUR OWN RISK since it's still a new and buggy version.
 
 ## Badges
 
