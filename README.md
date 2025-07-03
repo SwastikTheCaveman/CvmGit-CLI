@@ -18,9 +18,9 @@
 
 ## Install
 
-```bash
+<p align="center">```bash
 npm install -g cvmgit
-```
+```</p>
 
 ## Basic Command
 
