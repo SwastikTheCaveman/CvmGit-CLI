@@ -1,4 +1,4 @@
-# CvmGit
+<h1 align="center">CvmGit</h1>
 
 <h2 align="center"> Initialize, commit, and push — all in one command.</h2>
 
