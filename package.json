@@ -1,6 +1,6 @@
 {
   "name": "cvmgit",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Simple CLI tool to streamline git workflow.More updates coming soon.",
   "keywords": [
     "git",
@@ -17,7 +17,7 @@
   ],
   "main": "cvmGit.js",
   "bin": {
-    "cvmgit": "./Code/cvmGit.js"
+    "cvmgit": "./Functions/cvmGit.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
