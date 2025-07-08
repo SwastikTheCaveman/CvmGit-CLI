@@ -2,6 +2,29 @@
 
 <h2 align="center"> Initialize, commit, and push — all in one command.</h2>
 
+<h2 align="center"> Updates</h2>
+
+- The code has been made more organized and scalable to read and work with.
+
+- The installation and running processes remain the same, but once the code is run using the default command:
+
+```bash
+cvmgit "Commit Message" "Repository URL" "Branch Name"
+```
+
+—the details are saved in a JSON file.
+
+Next time, if the push is to the same repository and branch, only the following needs to be run:
+
+```bash
+cvmgit "Commit Message"
+```
+
+And if overwriting is needed, the full command can simply be typed again.
+
+
+
+
 <h2 align="center">Badges</h2>
 
 ![Static Badge](https://img.shields.io/badge/license-GPL3-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FSwastikTheCaveman%2FCvmGit-CLI%3Ftab%3DGPL-3.0-1-ov-file)
